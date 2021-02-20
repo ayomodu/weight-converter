@@ -1,0 +1,6 @@
+FROM python
+
+ENTRYPOINT python lay.py
+
+EXPOSE 5000
+
